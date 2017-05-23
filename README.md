@@ -1,62 +1,27 @@
+# [Start Bootstrap](http://startbootstrap.com/) - [Freelancer](http://startbootstrap.com/template-overviews/freelancer/)
 
-Social Buttons for Bootstrap
-============================
-[![npm version](https://badge.fury.io/js/bootstrap-social.svg)](https://badge.fury.io/js/bootstrap-social)
-[![Bower version](https://badge.fury.io/bo/bootstrap-social.svg)](https://badge.fury.io/bo/bootstrap-social)
+[Freelancer](http://startbootstrap.com/template-overviews/freelancer/) is a one page freelancer portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, and a working PHP contact form.
 
-Social Buttons made in pure CSS based on
-[Bootstrap](http://twbs.github.io/bootstrap/) and
-[Font Awesome](http://fortawesome.github.io/Font-Awesome/)!
+## Getting Started
 
-[Check the live demo!](http://lipis.github.io/bootstrap-social)
+To begin using this template, choose one of the following options to get started:
+* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/freelancer/)
+* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-freelancer.git`
+* Fork the repo
 
-Installation
-------------
+## Bugs and Issues
 
-Include the `bootstrap-social.css` or `bootstrap-social.less` in your project, or
-install it through [Bower](http://bower.io/):
+Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-freelancer/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/freelancer/).
 
-    bower install bootstrap-social
+## Creator
 
-Available classes
------------------
- - `btn-adn`
- - `btn-bitbucket`
- - `btn-dropbox`
- - `btn-facebook`
- - `btn-flickr`
- - `btn-foursquare`
- - `btn-github`
- - `btn-google`
- - `btn-instagram`
- - `btn-linkedin`
- - `btn-microsoft`
- - `btn-odnoklassniki`
- - `btn-openid`
- - `btn-pinterest`
- - `btn-reddit`
- - `btn-soundcloud`
- - `btn-tumblr`
- - `btn-twitter`
- - `btn-vimeo`
- - `btn-vk`
- - `btn-yahoo`
+Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
 
-Examples
---------
+* https://twitter.com/davidmillerskt
+* https://github.com/davidtmiller
 
-```html
-<a class="btn btn-block btn-social btn-twitter">
-  <span class="fa fa-twitter"></span>
-  Sign in with Twitter
-</a>
+Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
-<a class="btn btn-social-icon btn-twitter">
-  <span class="fa fa-twitter"></span>
-</a>
-```
+## Copyright and License
 
-Notes
------
-For now I won't accept any request for new buttons as I'm planning to
-split the main CSS to have separate files for all of the requested ones.
+Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-freelancer/blob/gh-pages/LICENSE) license.
